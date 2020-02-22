@@ -32,6 +32,10 @@ button {
     cursor: pointer;
 }
 
+.music-button{
+    background-image: url("Music.png")
+}
+
 p1{
     
     color:deeppink;
