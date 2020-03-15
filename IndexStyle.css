@@ -1,0 +1,15 @@
+body{
+    
+    color: #132A13;
+}
+.Genome{
+    background-image: url("HelixShort.png");
+    background-repeat: repeat-y;
+    height: 250vh;
+    background-position: center;
+    background-size: 375px;
+    
+} 
+.canvas{
+    
+}
