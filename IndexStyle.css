@@ -1,13 +1,21 @@
 body{
     
     color: #132A13;
+    background-image: url("Rat1.png");
+}
+.header{
+    background-color: aqua;
+    margin-left: auto;
+    height:60px;
+    
 }
 .Content{
-    background-image: url("HelixShortSpring.png");
-    background-repeat: repeat-y;
-    height: 250vh;
-    background-position: center;
-    background-size: 375px;
+    
+    
     
 } 
+
+.divider{
+    
+}
 
