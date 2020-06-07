@@ -1,0 +1,85 @@
+body{
+    
+    background-color: aliceblue;
+    color:black;
+}
+.navbar{
+    
+}
+.button {
+  background-color: red;
+  border: none;
+  color: black;
+  display: flex;
+  font-size: 16px;
+  margin: 4px 2px;
+  width:100px;
+  height:100px;
+  
+}
+.Content{
+    
+    color:black;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 10%;
+    margin-right:10%;
+    
+}
+.subHead{
+    
+    
+    color:black;
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 27%;
+    margin-top: 2%
+    
+}
+
+button {
+    padding: 0px;
+    height:133px;
+    width:133;
+    background-color :red;
+    cursor: crosshair;
+   
+}
+
+.ratButton{
+    background-image: url("Rat1ButtonIcon.png");
+  height:133px;
+    width:133px;
+   resize: inherit;
+    margin-left: 10%;
+    
+}
+
+.ButtonText{
+    margin-top:85%;
+    margin-left:17%;
+    font-family: sans-serif;
+    background-color:aliceblue;
+    opacity: 50%;
+    border-width: 3px;
+    border-color: black;
+    
+}
+
+
+
+.header{
+     
+    margin-left: 10%;
+}
+.main{
+    
+    float:right;
+    width:40%;
+    margin-right: 30%;
+    font-size: 80;
+    background-color: black;
+}
+.MenuBar{
+    
+}
