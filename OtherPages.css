@@ -92,8 +92,22 @@ body{
     margin-top: 5%;
         
 }
+@media screen and (min-width:1800px){
+    .header {
+        font-size:70px;
+        margin-right: 0%;     
+        width:100%;
+    }
 
-
+    .navrespond{
+        
+    }
+    @media screen and (min-width:1800px){
+    .naverespond {
+        font-size:50px;
+        
+        
+    }
 
 .content{
     
@@ -102,8 +116,20 @@ body{
     font-family: monospace;
     margin-left: 2%;
     margin-right:20%;
-    text-align: center;
+    text-align: left;
     
+}
+@media screen and (max-width:800px){
+    .content .responsive {
+        font-size:50px;
+    }
+}
+@media screen and (min-width:1800px){
+    .content {
+        font-size:50px;
+        margin-right: 0%;     
+        width:100%;
+    }
 }
 .subHead{
     

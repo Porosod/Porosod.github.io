@@ -37,14 +37,14 @@ body{
     
 }
 
-button {
+/*button {
     padding: 0px;
     height:133px;
     width:133;
     background-color :red;
     cursor: crosshair;
    
-}
+}*/
 
 .ratButton{
     background-image: url("Rat1.png");
