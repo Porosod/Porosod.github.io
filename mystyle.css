@@ -18,21 +18,21 @@ body{
   
 }
 .Content{
-    
+    text-align: center;
     color:black;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: monospace;
     margin-left: 10%;
     margin-right:10%;
     
 }
 .subHead{
     
-    
+    text-align: center;
     color:black;
-    font-family: sans-serif;
+    font-family: monospace;
     font-size: 50px;
-    margin-left: 27%;
+    
     margin-top: 2%
     
 }
@@ -69,8 +69,9 @@ button {
 
 
 .header{
-     
-    margin-left: 10%;
+     font-size: 80px;
+    font-family: monospace;
+    text-align: center;
 }
 .main{
     
