@@ -100,16 +100,13 @@ body{
     }
 }
 
-    .navrespond{
-        
+    .navTextSize{
+        font-size:180%
     }
-    @media screen and (min-width:1800px){
-    .naverespond {
-        font-size:50px;
-        
-        
+ .navTextSizeBrand{
+        font-size:200%
     }
-}
+    
 
 .content{
     
@@ -139,6 +136,7 @@ body{
     margin-right: 5%;
         border:2px;
     border-color: cadetblue;
+    
     
 }
 .subHead{
