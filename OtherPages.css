@@ -117,7 +117,7 @@ body{
     font-size: 20px;
     font-family: monospace;
     margin-left: 2%;
-    margin-right:20%;
+    margin-right:30%;
     text-align: left;
     
 }
@@ -134,6 +134,13 @@ body{
         
     }
 } 
+.imagecontent{
+    float:right;
+    margin-right: 5%;
+        border:2px;
+    border-color: cadetblue;
+    
+}
 .subHead{
     
     
