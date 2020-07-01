@@ -134,13 +134,13 @@ body{
         
     }
 }*/
-@media screen and (min-width:2000px){
+@media screen and (min-width:2000px){/*Old Adaptive Code*/
     .content{
         font-size:50px;
         
     }
 } 
-.imagecontent{
+.imagecontent{/*Css for images on the page*/
     float:right;
     margin-right: 5%;
         border:2px;
@@ -148,9 +148,7 @@ body{
     
     
 }
-.subHead{
-    
-    
+.subHead{/*unsused sub heading code*/
     color:black;
     font-family: monospace;
     font-size: 50px;
